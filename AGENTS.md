@@ -1,3 +1,9 @@
+# GoSync Web
+
+## Project
+
+The landing page for software that synchronizes two folders—either bidirectionally or unidirectionally. It features a backup mode that compresses files and also supports synchronization via FTP/SFTP.
+
 ## Development
 
 When starting the dev server, use background mode:
